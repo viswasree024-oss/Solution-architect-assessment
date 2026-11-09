@@ -1,0 +1,7 @@
+mcp>=1.9,<2
+pydantic>=2
+fastapi
+httpx
+uvicorn
+PyJWT
+pytest
